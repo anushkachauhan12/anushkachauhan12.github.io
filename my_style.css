@@ -1,0 +1,40 @@
+body{
+    background-color: beige;
+    font-family: sans-serif;
+}
+
+footer{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+h1{
+    color:blue;
+    font-family: arial;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 250%;
+}
+
+h2{
+    color:black;
+    font-family: Courier;
+    text-align: left;
+    text-decoration: underline;
+    font-size: 180%;
+}
+
+p{
+    font-size: 120%;
+}
+
+a{
+    color:blue;
+    text-decoration: none;
+}
+
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
